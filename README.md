@@ -125,14 +125,3 @@ int main()
 - **Cleanup of `#define` Lines:** Strip processed `#define` directive lines from the final `.i` output file just like standard `cpp`.
 
 ---
-
-## 📂 Repository Structure
-
-```text
-custom-c-preprocessor/
-│
-├── README.md
-├── main.c          # CLI entry point, file reader, and comment stripper
-├── header.c        # #include <...> resolution and .i file generation
-└── macro.c         # #define parsing and macro replacement logic
-```
