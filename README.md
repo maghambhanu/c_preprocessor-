@@ -1,4 +1,4 @@
-# ⚙️ Custom C Preprocessor (`cpp`) in C
+# ⚙️ Custom C Preprocessor in C
 
 ![Language](https://img.shields.io/badge/Language-C-blue)
 ![Domain](https://img.shields.io/badge/Domain-System%20Programming%20%26%20Compilers-orange)
